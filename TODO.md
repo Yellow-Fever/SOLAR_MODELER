@@ -3,6 +3,7 @@
 1. Check cross-plattform build for helloworld app. 
 1. check configs for linked native window behavior.
 1. check SDK/dependency pulldowns for buildozer
+1. Separate branch for the helloworld/Pong example
 1. check separate build file for database
 1. check tests for db queries
 1. JSON schema
