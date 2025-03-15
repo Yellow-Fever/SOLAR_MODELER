@@ -1,4 +1,4 @@
-### Pong.py
+### PongApp.py
 
 Courtesy for user, as provided at https://kivy.org/doc/stable/guide/basic.html
 
