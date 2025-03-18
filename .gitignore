@@ -1,1 +1,6 @@
 ## Ignore dotfiles
+
+## Ignore python extras
+*.pyc
+__pycache__/
+.pytest_cache/
