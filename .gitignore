@@ -1,6 +1,10 @@
-## Ignore dotfiles
+## Ignore Mac dotfiles
+.DS_Store
 
-## Ignore python extras
+## Ignore python extras/caches
 *.pyc
 __pycache__/
 .pytest_cache/
+
+## Ignore VSCode dotfolder
+.vscode/

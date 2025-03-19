@@ -8,3 +8,9 @@
 1. check tests for db queries
 1. JSON schema
 1. Check AI model against the discrete segments of the power demand
+
+1. Add the structure for the sphinx documentation, use the readthedocs format
+1. Add the Github tags for the doc processing
+1. get a readthedocs account 
+1. Make an entry point for shell command reports
+1. Work on the docs file structure
