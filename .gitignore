@@ -8,3 +8,12 @@ __pycache__/
 
 ## Ignore VSCode dotfolder
 .vscode/
+
+## Ignore doctrees cache from Sphinx documentation builds
+docs/build/doctrees/
+
+## Ignore latex build cache
+docs/build/latex/
+
+## Ignore the html build, for now
+docs/build/html
