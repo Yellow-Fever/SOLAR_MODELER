@@ -1,19 +1,19 @@
-## Ignore Mac dotfiles
+## Mac dotfiles
 .DS_Store
 
-## Ignore python extras/caches
+## Python extras/caches
 *.pyc
 __pycache__/
 .pytest_cache/
 
-## Ignore VSCode dotfolder
+## VSCode dotfolder
 .vscode/
 
-## Ignore doctrees cache from Sphinx documentation builds
+## Doctrees cache from Sphinx documentation builds
 docs/build/doctrees/
 
-## Ignore latex build cache
+## Latex build cache
 docs/build/latex/
 
-## Ignore the html build, for now
+## Html build cache, for now
 docs/build/html
